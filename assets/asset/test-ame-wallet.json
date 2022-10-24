@@ -1,0 +1,45 @@
+{
+  "project_title": "AME Wallet",
+  "project-code": "ame-wallet",
+  "project_icon": "asset/project-ame-wallet.png",
+  "is_published_notes": "Published",
+  "web_link": "https://amechain.io/",
+  "app_store_link": "https://apps.apple.com/in/app/ame-wallet/id1626692865",
+  "play_store_link": "https://play.google.com/store/apps/details?id=io.amechain.amewalletapp1",
+  "screenshots_bg": null,
+  "screenshots_description": [
+    "Create a new wallet or restore an existing wallet",
+    "Restore your wallet by entering the seed phrase, you can also import from your private key",
+    "Check your total asset balance in your desired crypto units. Connect with ETH account, AMEPAY Token and AME Account from your wallet",
+    "Send and receive AME Coins or ETH to anyone, Check all the transactions history",
+    "Enter security pin to get access every time you try to read your private key to send transactions. Your keys are encrypted using AES algorithms",
+    "Enter the amount to send or use the slider to choose the volume of AME coin you would like to transact",
+    "Scan the QR using your camera or paste the public address and hit send, this initiates the transactions",
+    "Get the status of your transactions. Based on the transaction receipt mark your transaction success or pending",
+    "You can use the Burn and Mint feature to burn your ERC20 token and mint your new AME Coin. This process has series of validations",
+    "Once we acknowledge and validate your burn transaction, we will send you the AME coins with transaction hash",
+    "Check the price charts from your app with the filters available",
+    "Change your fiat and crypto currency units, and other settings form your settings menu in your application"
+  ],
+  "project_screenshots": ["asset/ame-wallet/01.png","asset/ame-wallet/02.png","asset/ame-wallet/03.png","asset/ame-wallet/04.png","asset/ame-wallet/05.png","asset/ame-wallet/06.png","asset/ame-wallet/07.png","asset/ame-wallet/08.png","asset/ame-wallet/09.png","asset/ame-wallet/10.png","asset/ame-wallet/11.png"],
+  "video_link": "",
+  "project_description":
+  "AME Wallet helps you to connect with AME Chain network, a blockchain network that is EVM compatible and Quantum secured.\n\nYou can send and receive AME Coins to anyone using AME Wallet.\n\nYour private keys and other wallet details are encrypted to keep your wallet more secure.\n\nWith AME Wallet,\n• You can send and receive AME Coins\n• Check your transaction details\n• You can check your wallet balance in fiat currency units [or] crypto currency units\n• Save the public address of your connections\n• Connect with our support team for any further assistance.\n• Restore wallet with private key.\n• Burn and Mint AMEPAY Tokens",
+  "project_features": [
+    "Create new wallet account",
+    "Restore existing wallet account using seed phrase",
+    "Restore existing wallet account using private key",
+    "Connect with ETH Mainnet, Interact with smart-contracts",
+    "Connect with AME Mainnet",
+    "Check all the wallet activities",
+    "Get your asset details with pie-chart",
+    "Get the current price updates on your wallet",
+    "Get all your transaction details",
+    "Send and Receive ETH or AME",
+    "Reset wallet account",
+    "Backup your seed words and private key",
+    "Change your fiat and crypto currency units",
+    "Manage your contacts from Address book",
+    "Connect with the support team from your application"
+  ]
+}
