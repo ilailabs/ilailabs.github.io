@@ -1,0 +1,23 @@
+{
+  "project_title": "OZONE Wallet",
+  "project-code": "ozone-wallet",
+  "project_icon": "asset/ozone-wallet/ozone-logo.png",
+  "is_published_notes": "Publishing soon",
+  "web_link": "https://ozonechain.io/",
+  "app_store_link": "",
+  "play_store_link": "",
+  "screenshots_bg": null,
+  "screenshots_description": [
+    "Send and receive OZO coin from your wallet main screen",
+    "Get latest updates from Ozone Chain community - in the news feeds section",
+    "Block time lesser than 5 seconds, send transactions easily and check all the transaction records",
+    "Managing your crypto assets in ozonechain is made easy with Ozone Wallet App",
+    "Bookmark your favourite contacts - and manage your address book",
+    "Decrypt data with your secret pin everytime when you try to read sensitive information"
+  ],
+  "project_screenshots": ["asset/ozone-wallet/01.png","asset/ozone-wallet/02.png","asset/ozone-wallet/03.png","asset/ozone-wallet/04.png","asset/ozone-wallet/05.png","asset/ozone-wallet/06.png"],
+  "video_link": "",
+  "project_description":"asset/ozone-wallet/ozone-wallet.md",
+  "project_features": [
+  ]
+}
