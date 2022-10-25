@@ -36235,7 +36235,7 @@ A.a5F.prototype={
 $0(){this.a.hq(A.fH("https://wa.me/919940275422",0,null))},
 $S:0}
 A.a5G.prototype={
-$0(){this.a.hq(A.fH("https://wa.me/919940275422",0,null))},
+$0(){this.a.hq(A.fH("https://github.com/ilailabs/ilailabs.github.io/raw/main/assets/elankovanmg_resume.pdf",0,null))},
 $S:0}
 A.fg.prototype={
 i(a){return"AnimationStatus."+this.b}}
